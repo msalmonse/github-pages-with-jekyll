@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Michael’s Musing
 
-I'm glad you are here. I plan to talk about ...
+Some random musings on subjects that interest me.
